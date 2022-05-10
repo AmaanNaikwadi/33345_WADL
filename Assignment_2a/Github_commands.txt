@@ -1,0 +1,77 @@
+Microsoft Windows [Version 10.0.19044.1645]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Lenovo\Desktop\PICT\TE\WADL>git init
+Initialized empty Git repository in C:/Users/Lenovo/Desktop/PICT/TE/WADL/.git/
+
+C:\Users\Lenovo\Desktop\PICT\TE\WADL>git remote add origin https://github.com/AmaanNaikwadi/33345_WADL.git
+
+C:\Users\Lenovo\Desktop\PICT\TE\WADL>git add .
+warning: adding embedded git repository: Assignment_2c
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint:
+hint:   git submodule add <url> Assignment_2c
+hint:
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint:
+hint:   git rm --cached Assignment_2c
+hint:
+hint: See "git help submodule" for more information.
+warning: LF will be replaced by CRLF in Assignment_3a/package-lock.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in Assignment_3a/package.json.
+The file will have its original line endings in your working directory
+
+C:\Users\Lenovo\Desktop\PICT\TE\WADL>git commit -m "Initial Commit"
+[master (root-commit) 3726e35] Initial Commit
+ 33 files changed, 2296 insertions(+)
+ create mode 100644 Assignment_1a/Outputs/1a_1.jpg
+ create mode 100644 Assignment_1a/Outputs/1a_2.jpg
+ create mode 100644 Assignment_1a/Outputs/1a_3.jpg
+ create mode 100644 Assignment_1a/Outputs/1a_4.jpg
+ create mode 100644 Assignment_1a/admin.html
+ create mode 100644 Assignment_1a/img/mayur.png
+ create mode 100644 Assignment_1a/img/medhavi.png
+ create mode 100644 Assignment_1a/img/pict.jpg
+ create mode 100644 Assignment_1a/img/pict_campus.jpeg
+ create mode 100644 Assignment_1a/img/placementinstitute.png
+ create mode 100644 Assignment_1a/index.html
+ create mode 100644 Assignment_1a/style.css
+ create mode 100644 Assignment_1b/Outputs/1b_1.jpg
+ create mode 100644 Assignment_1b/Outputs/1b_2.jpg
+ create mode 100644 Assignment_1b/Outputs/1b_3.jpg
+ create mode 100644 Assignment_1b/data.json
+ create mode 100644 Assignment_1b/index.html
+ create mode 100644 Assignment_1b/index.js
+ create mode 160000 Assignment_2c
+ create mode 100644 Assignment_3a/Output/3a_1.jpg
+ create mode 100644 Assignment_3a/Output/3a_2.jpg
+ create mode 100644 Assignment_3a/Output/3a_3.jpg
+ create mode 100644 Assignment_3a/index.js
+ create mode 100644 Assignment_3a/package-lock.json
+ create mode 100644 Assignment_3a/package.json
+ create mode 100644 Assignment_3a/template/admin.html
+ create mode 100644 Assignment_3a/template/img/mayur.png
+ create mode 100644 Assignment_3a/template/img/medhavi.png
+ create mode 100644 Assignment_3a/template/img/pict.jpg
+ create mode 100644 Assignment_3a/template/img/pict_campus.jpeg
+ create mode 100644 Assignment_3a/template/img/placementinstitute.png
+ create mode 100644 Assignment_3a/template/index.html
+ create mode 100644 WAD_Mini_Project_Report.pdf
+
+C:\Users\Lenovo\Desktop\PICT\TE\WADL>git push origin master
+Enumerating objects: 36, done.
+Counting objects: 100% (36/36), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (35/35), done.
+Writing objects: 100% (36/36), 1.32 MiB | 2.04 MiB/s, done.
+Total 36 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), done.
+To https://github.com/AmaanNaikwadi/33345_WADL.git
+ * [new branch]      master -> master
+
+C:\Users\Lenovo\Desktop\PICT\TE\WADL>
